@@ -70,7 +70,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alchion&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alchion" align="center" /></div>
 <br/>  
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alchion&layout=compact" align="center" /></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Alchion&&style=flat-square" align="center" />
@@ -81,6 +84,4 @@
 ----
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchion)](https://github.com/Alchion/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alchion&layout=compact)](https://git.io/streak-stats)
