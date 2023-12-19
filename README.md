@@ -79,7 +79,7 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchion)](https://github.com/Alchion/github-readme-stats)
 
